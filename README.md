@@ -1,7 +1,5 @@
-# Data Modeling for Retail Sales 
-# logical and Physical Design
-
-### to can open logical design open the file (Logical_DWH_Star_Schema.crswap) in (drawio)
+# Designing a Data Warehouse (DWH) Using a Star Schema for Retail Sales
+## logical and Physical Design
 
 ### Step 1: Select the Business Process
 - Identify the business process to model based on business requirements and available source data.
@@ -22,3 +20,6 @@
 - Determine which facts will appear in the fact table, ensuring they align with the grain.
 - Example facts: sales quantity, regular price, discount price, net paid price, extended sales dollar amount, and extended discount dollar amount.
 - Include additional facts if readily available, such as product cost.
+
+##Note: to can open logical design open the file (Logical_DWH_Star_Schema.crswap) in (drawio)
+
