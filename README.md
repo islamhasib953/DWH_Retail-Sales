@@ -21,5 +21,5 @@
 - Example facts: sales quantity, regular price, discount price, net paid price, extended sales dollar amount, and extended discount dollar amount.
 - Include additional facts if readily available, such as product cost.
 
-##Note: to can open logical design open the file (Logical_DWH_Star_Schema.crswap) in (drawio)
+## Note: to can open logical design open the file (Logical_DWH_Star_Schema.crswap) in (drawio)
 
