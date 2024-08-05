@@ -1,6 +1,8 @@
 # Data Modeling for Retail Sales 
 # logical and Physical Design
 
+## to open logical design open the file in (drawio)
+
 ### Step 1: Select the Business Process
 - Identify the business process to model based on business requirements and available source data.
 - Focus on the most critical and feasible process for the initial project.
