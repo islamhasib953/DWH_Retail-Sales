@@ -1,7 +1,7 @@
 # Data Modeling for Retail Sales 
 # logical and Physical Design
 
-## to open logical design open the file in (drawio)
+### to can open logical design open the file (Logical_DWH_Star_Schema.crswap) in (drawio)
 
 ### Step 1: Select the Business Process
 - Identify the business process to model based on business requirements and available source data.
